@@ -11,5 +11,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
-  }
+  },
+  {
+  "homepage": "https://<your-username>.github.io/<your-repo-name>"
+}
 }
